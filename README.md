@@ -1,2 +1,2 @@
-# login-app 2
+# login-app
 This Application Provide Login Functionality 
